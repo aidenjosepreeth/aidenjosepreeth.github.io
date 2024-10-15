@@ -39,7 +39,7 @@ education:
   - area: BTech Artificial Intelligence
     institution: RSET
     date_start: 2021-07-01
-    date_end: 2025-06-31
+    date_end: 2025-06-01
     summary: |
       CGPA : 8.92
   - area: Higher Secondary Education
